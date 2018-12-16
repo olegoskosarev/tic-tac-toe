@@ -31,6 +31,8 @@ body {
   height: 120px;
   border: 1px solid #8D9DB6;
   background-color: #87BDD8;
+  font-size: 90px;
+  text-align: center;
   transition: all .3s;
   cursor: pointer;
 }
